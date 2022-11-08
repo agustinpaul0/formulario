@@ -4,7 +4,8 @@
 
 .form__label {
   font-size: var(--font-size-form-fieldset);
-  margin-bottom: 1rem;
+  padding-top: 3rem;
+  margin-bottom: 2rem;
 }
 
 .input-container {
@@ -39,7 +40,7 @@
   top: 1.375rem;
   left: 0.5rem;
   font-size: var(--font-size-input-label);
-
+  
   transition: all 0.25s;
 }
 
